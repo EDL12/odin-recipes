@@ -1,2 +1,2 @@
 # odin-recipes
-First project created by me based on The Odin Project curriculum
+A basic recipe website demonstrating links to local pages, images, and skeleton HTML code without the use of CSS.
