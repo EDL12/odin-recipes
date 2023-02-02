@@ -1,0 +1,16 @@
+#recipes {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 48px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aquamarine;
+}
+
+.links {
+    border-style: groove;
+    border-left-width: 8px;
+    border-left-color: blue;
+    background-color: aqua;
+    font-size: 24px;
+}
